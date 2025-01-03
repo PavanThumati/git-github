@@ -1,0 +1,8 @@
+Hi this is file2 text file
+
+Git & GItHUb
+
+
+
+adding content when the file2.txt is in staging state or after running git add file2.txt
+
