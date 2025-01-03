@@ -1,0 +1,6 @@
+*
+*
+the changes are added in sample1.txt in subBranch after chaning in main branch
+*
+*
+
